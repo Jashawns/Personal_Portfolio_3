@@ -20,7 +20,6 @@ Updated portfolio adding Project 2 and four exemplary homework assignments. The 
 
 ## Links
 
+https://github.com/Jashawns/Personal_Portfolio_3
+
 https://jashawns.github.io/Personal_Portfolio_3/
-
-https://github.com/Jashawns/Personal_Portfolio_2
-
