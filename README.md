@@ -14,12 +14,13 @@ Updated portfolio adding Project 2 and four exemplary homework assignments. The 
 
 ## Visuals 
 
-![demo](./assets/images/Demo.png) 
-
+![demo](./assets/images/Demo1.png) 
+![demo](./assets/images/Demo2.png) 
+![demo](./assets/images/Demo3.png)
 
 ## Links
 
-https://jashawns.github.io/Personal_Portfolio_2/
+https://jashawns.github.io/Personal_Portfolio_3/
 
 https://github.com/Jashawns/Personal_Portfolio_2
 
