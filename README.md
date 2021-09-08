@@ -14,9 +14,9 @@ Updated portfolio adding Project 2 and four exemplary homework assignments. The 
 
 ## Visuals 
 
-![demo](./assets/images/Demo1.png) 
-![demo](./assets/images/Demo2.png) 
-![demo](./assets/images/Demo3.png)
+![demo](./assets/images/Demo2_1.png) 
+![demo](./assets/images/Demo2_2.png) 
+![demo](./assets/images/Demo2_3.png)
 
 ## Links
 
